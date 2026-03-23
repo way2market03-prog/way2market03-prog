@@ -1,16 +1,17 @@
-## Hi there 👋
+# Meta Reach Marketing 🚀
 
-<!--
-**way2market03-prog/way2market03-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We help businesses grow faster with Bulk SMS, WhatsApp Marketing, and digital marketing solutions.
 
-Here are some ideas to get you started:
+🌐 Website: https://metareachmarketing.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📲 WhatsApp: https://wa.me/917669999419
+
+## Our Services
+- Bulk SMS Marketing
+- WhatsApp Marketing
+- Email Marketing
+- Lead Generation
+- Digital Marketing Services
+
+## About Us
+Meta Reach Marketing is a trusted digital marketing agency helping businesses reach the right audience and boost conversions through smart communication solutions.
